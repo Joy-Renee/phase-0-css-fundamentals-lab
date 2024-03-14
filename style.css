@@ -3,3 +3,41 @@ body {
   height: 100%;
   margin: 0;
 }
+header{
+  text-align: center;
+}
+#featured-property{
+  text-align: center;
+}
+.contact{
+  float: left;
+  margin-left:200px ;
+  background-color: red;
+}
+.Correspondence{
+  float: left;
+  margin-left:400px ;
+  background-color: red;
+}
+.link{
+  float: left; 
+  margin-left:300px ;
+  background-color: red;
+  
+}
+.Follow{
+  float: left;
+  margin-left:300px ; 
+  background-color: red;
+}
+#details{
+  float: left;
+  background-color: red;
+  padding-right: 13.5%;
+ 
+ 
+ 
+ 
+  
+}
+
